@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+.env/
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# FAISS / cache
+faiss_index/
+
+# Example repos (nested git)
+examples/sample_repo/
+
