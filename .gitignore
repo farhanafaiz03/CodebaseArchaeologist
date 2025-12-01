@@ -18,9 +18,6 @@ logs/
 # Jupyter
 .ipynb_checkpoints/
 
-# Streamlit
-.streamlit/
-
 # FAISS / cache
 faiss_index/
 
